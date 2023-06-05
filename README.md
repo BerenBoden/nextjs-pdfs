@@ -12,6 +12,6 @@ how to run:
 
 npm install
 //get URLs 
-node utils/url-fetcher.js
+```node utils/url-fetcher.js```
 //Turn HTML into PDF
-node index.js
+```node index.js```
