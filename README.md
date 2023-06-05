@@ -10,8 +10,11 @@ You need to have Node.js installed on your machine to run this script. You also 
 
 how to run:
 
+
 ```npm install```
 
+//Get URLs from sitemap.xml.  
 ```node utils/url-fetcher.js```
 
+//Convert HTML to PDF.  
 ```node index.js```
