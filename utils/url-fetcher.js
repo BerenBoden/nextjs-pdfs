@@ -17,7 +17,7 @@ const __dirname = dirname(__filename);
     for (let element of elements) {
       let url = element.textContent;
       //Include what you want to filter, use "/docs/pages" to get the docs for the older version of Next.js.
-      if (url.includes("/docs/app")) {
+      if (url.includes("/docs/pages")) {
         urls.push({ url });
       }
     }

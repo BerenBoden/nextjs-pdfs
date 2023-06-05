@@ -37,7 +37,7 @@ import { PDFDocument } from "pdf-lib";
   }
   // Save the merged PDF
   const mergedPdfBytes = await mergedPdf.save();
-  fs.writeFileSync("output.pdf", mergedPdfBytes);
+  fs.writeFileSync("pdfs/output.pdf", mergedPdfBytes);
 
   await browser.close();
   console.log("Done!");

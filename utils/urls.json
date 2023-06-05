@@ -1,0 +1,362 @@
+[
+  {
+    "url": "https://nextjs.org/docs/pages"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/components"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/components/font"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/components/head"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/components/image"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/components/image-legacy"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/components/link"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/components/script"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/create-next-app"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/edge"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/functions"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/functions/get-initial-props"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/functions/get-server-side-props"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/functions/get-static-paths"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/functions/get-static-props"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/functions/next-server"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/functions/use-amp"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/functions/use-report-web-vitals"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/functions/use-router"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-cli"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/assetPrefix"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/basePath"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/compress"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/devIndicators"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/distDir"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/env"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/eslint"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/exportPathMap"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/generateBuildId"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/generateEtags"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/headers"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/httpAgentOptions"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/images"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/onDemandEntries"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/output"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/pageExtensions"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/poweredByHeader"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/productionBrowserSourceMaps"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/reactStrictMode"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/redirects"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/rewrites"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/runtime-configuration"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/trailingSlash"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/transpilePackages"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/turbo"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/typescript"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/urlImports"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/webVitalsAttribution"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/api-reference/next-config-js/webpack"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/absolute-imports-and-module-aliases"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/amp"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/babel"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/custom-server"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/debugging"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/draft-mode"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/error-handling"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/eslint"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/mdx"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/post-css"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/preview-mode"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/src-directory"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/configuring/typescript"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/data-fetching"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/data-fetching/building-forms"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/data-fetching/client-side"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/data-fetching/get-server-side-props"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-paths"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-props"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/data-fetching/incremental-static-regeneration"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/deploying"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/deploying/ci-build-caching"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/deploying/multi-zones"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/deploying/production-checklist"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/deploying/static-exports"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/optimizing"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/optimizing/analytics"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/optimizing/fonts"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/optimizing/images"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/optimizing/instrumentation"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/optimizing/lazy-loading"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/optimizing/open-telemetry"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/optimizing/scripts"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/optimizing/static-assets"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/optimizing/testing"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/rendering"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/rendering/automatic-static-optimization"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/rendering/client-side-rendering"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/rendering/edge-and-nodejs-runtimes"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/rendering/incremental-static-regeneration"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/rendering/static-site-generation"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing/api-routes"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing/authenticating"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing/custom-app"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing/custom-document"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing/custom-error"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing/internationalization"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing/linking-and-navigating"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing/middleware"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/routing/pages-and-layouts"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/styling"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/styling/css-in-js"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/styling/css-modules"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/styling/sass"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/styling/tailwind-css"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/upgrading"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/upgrading/app-router-migration"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/upgrading/codemods"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/upgrading/version-10"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/upgrading/version-11"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/upgrading/version-12"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/upgrading/version-13"
+  },
+  {
+    "url": "https://nextjs.org/docs/pages/building-your-application/upgrading/version-9"
+  }
+]
