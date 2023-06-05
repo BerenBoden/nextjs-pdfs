@@ -10,8 +10,8 @@ You need to have Node.js installed on your machine to run this script. You also 
 
 how to run:
 
-npm install
-//get URLs. 
+```npm install```
+
 ```node utils/url-fetcher.js```
-//Turn HTML into PDF. 
+
 ```node index.js```
